@@ -1,2 +1,2 @@
-# Alura FrameWorks
-  Vue.js
+# Curso Alura
+  Vue.js{ cookin-up }
